@@ -38,7 +38,7 @@ This repository showcases two primary artifacts, each enhanced to reflect advanc
 
 The code review is available in the `/code-review/` folder. It provides an overview of both artifacts and highlights the enhancements changes that I plan to make.
 
-[→ View Code Review Video](link-will-go-here)
+[→ View Code Review Video](https://youtu.be/zit2cjyqVfM)
 
 ---
 
