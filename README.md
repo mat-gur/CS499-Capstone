@@ -28,8 +28,8 @@ This repository showcases two primary artifacts, each enhanced to reflect advanc
 | Module | Deliverable                                   | Status       |
 |--------|-----------------------------------------------|--------------|
 | 4      | 🔍 Code Review                                | ✅ Submitted  |
-| 5      | 🧱 Publish Enhancement 1: Software Engineering & Design | ⏳ In Progress |
-| 6      | 🧠 Publish Enhancement 2: Data Structures & Algorithms | ⏳ Pending    |
+| 5      | 🧱 Publish Enhancement 1: Software Engineering & Design | ✅ Submitted 8/2 |
+| 6      | 🧠 Publish Enhancement 2: Data Structures & Algorithms | ⏳ In progress    |
 | 7      | 🧾 Final Project Submission                   | ⏳ Pending    |
 
 ---
@@ -50,6 +50,27 @@ The code review is available in the `/code-review/` folder. It provides an overv
 - MongoDB
 - Pandas
 - Custom Data Structures (BST)
+
+---
+
+### ✨ Capstone Enhancements
+
+This capstone includes three major enhancements:
+
+  🔹 **Enhancement 1: PC Audit Tool (Software Engineering & Design)**  
+  This artifact focuses on improving software design, modularity, and GUI responsiveness. It includes enhanced logging, error handling, and antivirus logic. 
+  
+  📂 [View Enhancement Folder](./Enhancement1_SoftwareEng_PC_Audit_Tool)  
+  
+  🎥 [Watch Demo on YouTube](https://youtu.be/6jackT5Y_oc)
+
+
+  🔹 **Enhancement 2: MongoDB Dashboard (Data Structures & Algorithms)**  
+  [Coming Soon: End of 8/10]
+
+
+  🔹 **Enhancement 3: MongoDB Dashboard (Databases)**  
+  [Final Project Submission Week 8/17]
 
 ---
 
