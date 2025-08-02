@@ -10,10 +10,14 @@ The project is an enhanced version of my PC Audit Tool — a Python-based GUI ap
 - `src/` — All Python source code modules
 - `docs/` — Word documents including run instructions and user guide
 
-## 🚀 How to Run the Tool
 
-See [`docs/PC Audit Tool_Run_Instructions Rev1.1.doc`](./docs/PC%20Audit%20Tool_Run_Instructions%20Rev1.1.doc) for running instructions.
-- [`docs/PC Audit Tool_User_Guide Rev1.1.doc`](./docs/PC%20Audit%20Tool_Run_User_Guide%20Rev1.1.doc) for a guide while using the application.
+## 📄 Documentation
+
+- [Run Instructions (Word)](./docs/PC%20Audit%20Tool_Run_Instructions%20Rev1.1.docx)
+
+- [User Guide (Word)](./docs/PC%20Audit%20Tool_User_Guide%20Rev%201.1.docx)
+
+
 
 
 ## 🎥 Demonstration Video
