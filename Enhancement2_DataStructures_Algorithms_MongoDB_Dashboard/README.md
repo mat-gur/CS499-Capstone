@@ -18,4 +18,4 @@ The project is an enhanced version of my MongoDB Dashboard, a Python-based web a
 ## 🎥 Demonstration Video
 
 Watch the walkthrough of this enhancement on YouTube:  
-🔗 [Enhancement 2 - MongoDB Dashboard Demo](https://youtu.be/YOUR_VIDEO_LINK_HERE)
+🔗 [Enhancement 2 - MongoDB Dashboard Demo](https://youtu.be/aVHHI_yZ5Zc)
