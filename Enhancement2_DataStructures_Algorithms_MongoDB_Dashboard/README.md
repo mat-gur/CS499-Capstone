@@ -12,8 +12,8 @@ The project is an enhanced version of my MongoDB Dashboard, a Python-based web a
 
 ## 📄 Documentation
 
-- [Run Instructions (Word)](./docs/Run_Instructions_MongoDB_Dashboard.docx)  
-- [User Guide (Word)](./docs/Enhancement2_Narrative.docx)
+- [Run Instructions (Word)](./docs/MongoDB%20Dashboard_Run_Instructions%20Rev1.1.docx)  
+- [User Guide (Word)](./docs/MongoDB%20Dashboard_User_Guide%20Rev1.1.docx)
 
 ## 🎥 Demonstration Video
 
