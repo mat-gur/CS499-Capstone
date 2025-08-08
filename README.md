@@ -29,7 +29,7 @@ This repository showcases two primary artifacts, each enhanced to reflect advanc
 |--------|-----------------------------------------------|--------------|
 | 4      | 🔍 Code Review                                | ✅ Submitted  |
 | 5      | 🧱 Publish Enhancement 1: Software Engineering & Design | ✅ Submitted 8/2 |
-| 6      | 🧠 Publish Enhancement 2: Data Structures & Algorithms | ⏳ In progress    |
+| 6      | 🧠 Publish Enhancement 2: Data Structures & Algorithms | ✅ Submitted 8/8    |
 | 7      | 🧾 Final Project Submission                   | ⏳ Pending    |
 
 ---
@@ -66,7 +66,11 @@ This capstone includes three major enhancements:
 
 
   🔹 **Enhancement 2: MongoDB Dashboard (Data Structures & Algorithms)**  
-  [Coming Soon: End of 8/10]
+  This artifact showcases advanced algorithmic techniques including a custom Binary Search Tree (BST) for in-memory filtering, input validation, and MongoDB performance tuning.  
+  
+  📂 [View Enhancement Folder](./Enhancement2_DataStructures_Algorithms_MongoDB_Dashboard)  
+  
+  🎥 [Watch Demo on YouTube](https://youtu.be/aVHHI_yZ5Zc)
 
 
   🔹 **Enhancement 3: MongoDB Dashboard (Databases)**  
