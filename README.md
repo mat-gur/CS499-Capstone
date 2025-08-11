@@ -22,6 +22,10 @@ This repository showcases two primary artifacts, each enhanced to reflect advanc
 - 📊 **MongoDB Dashboard**  
   An interactive data dashboard built with Python, Dash, and MongoDB, used to filter and analyze animal shelter data. Enhanced using custom data structures like a Binary Search Tree (BST) and in-memory indexing for fast query performance.
 
+- 🗄 **MongoDB Dashboard – Databases**  
+  The same MongoDB dashboard project was further enhanced with database-focused improvements, including input validation and sanitization, CSV/JSON export, modularized database functions, basic authentication, and MongoDB indexing for better efficiency.
+
+
 ---
 ### 📅 Capstone Milestone Timeline
 
@@ -30,7 +34,7 @@ This repository showcases two primary artifacts, each enhanced to reflect advanc
 | 4      | 🔍 Code Review                                | ✅ Submitted  |
 | 5      | 🧱 Publish Enhancement 1: Software Engineering & Design | ✅ Submitted 8/2 |
 | 6      | 🧠 Publish Enhancement 2: Data Structures & Algorithms | ✅ Submitted 8/8    |
-| 7      | 🧾 Final Project Submission                   | ⏳ Pending    |
+| 7      | 🧾 Final Project Submission (Databases & Self-Assessment) | ⏳ In Progress    |
 
 ---
 
@@ -66,15 +70,19 @@ This capstone includes three major enhancements:
 
 
   🔹 **Enhancement 2: MongoDB Dashboard (Data Structures & Algorithms)**  
-  This artifact showcases advanced algorithmic techniques including a custom Binary Search Tree (BST) for in-memory filtering, input validation, and MongoDB performance tuning.  
+  This artifact showcases advanced algorithmic techniques, including a custom Binary Search Tree (BST) for in-memory filtering, input validation, and MongoDB performance tuning.  
   
   📂 [View Enhancement Folder](./Enhancement2_DataStructures_Algorithms_MongoDB_Dashboard)  
   
   🎥 [Watch Demo on YouTube](https://youtu.be/aVHHI_yZ5Zc)
 
 
-  🔹 **Enhancement 3: MongoDB Dashboard (Databases)**  
-  [Final Project Submission Week 8/17]
+ 🔹 **Enhancement 3: MongoDB Dashboard (Databases)**
+Added database-focused improvements, including validation, export features, modular DB functions, authentication, and indexing.
+
+📂 [View Enhancement Folder](./Enhancement3_Databases_MongoDB_Dashboard) 
+
+🎥 [Watch Demo on YouTube](https://youtu.be/RAM9ffxWQqY)
 
 ---
 
