@@ -1,19 +1,17 @@
-# Enhancement 3: MongoDB Dashboard (Databases)
+# Enhancement Three: Databases
 
 This folder contains my Enhancement Three artifact for the CS-499 Computer Science Capstone. This enhancement falls under the **Databases** category.
 
 The project is an enhanced MongoDB-backed dashboard built with Python and Dash. This version focuses on database improvements: input validation/sanitization, modular database functions, basic authentication, CSV/JSON export, and MongoDB indexing for better efficiency.
 
 ## 📁 Folder Structure
-- `src/` 
-    - Original version - dashboard before database-focused changes 
-    - Enhanced version - Final version with DB enhancements  
-
+- `src/`  — All Python source code, including original and enhanced versions
 - `docs/` — Word docs (run instructions, narrative)
 
 ## 📄 Documentation
 - [Run Instructions (Word)](https://github.com/mat-gur/CS499-Capstone/blob/main/Enhancement3_Databases_MongoDB_Dashboard/docs/MongoDB%20Dashboard_Run_Instructions%20Rev1.1.docx)
 - [User Guide (Word)](https://github.com/mat-gur/CS499-Capstone/blob/main/Enhancement3_Databases_MongoDB_Dashboard/docs/MongoDB%20Dashboard_User_Guide%20Rev1.1.docx)
+- [Narrative (Word)](./docs/5-2%20Milestone%20Four_Enhancement%20Three%20-%20Databases_Guarino%2CMatthew.docx)
 
 
 ## 🎥 Demonstration Video
@@ -23,7 +21,7 @@ A walkthrough of this enhancement is available on YouTube:
 ## 📘 Enhancement Narrative
 
 ### What is the artifact?
-As mentioned last week, the artifact I’ve continued to enhance is the interactive MongoDB dashboard originally developed during my CS-340 Client-Server Development course. Built with Dash (by Plotly), Python, and MongoDB, the application allows users to filter and analyze shelter dog data from the Austin Animal Center. While the original project was finalized back in February, this week’s work focused specifically on improving the application's database interaction and security practices as part of my capstone project.
+The artifact I’ve continued to enhance is the interactive MongoDB dashboard originally developed during my CS-340 Client-Server Development course. Built with Dash (by Plotly), Python, and MongoDB, the application allows users to filter and analyze shelter dog data from the Austin Animal Center. While the original project was finalized back in February, this week’s work focused specifically on improving the application's database interaction and security practices as part of my capstone project.
 
 ### Why was it selected?
 I chose this artifact again because of its flexibility and relevance to real-world database applications. It provided a great foundation to showcase improvements in secure database access, modular query logic, and performance optimizations. For this enhancement, I focused entirely on how the dashboard interacts with the database layer, ensuring it is both efficient and secure.
