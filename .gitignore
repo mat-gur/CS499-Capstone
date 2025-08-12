@@ -1,0 +1,11 @@
+# Ignore PyCharm project settings
+.idea/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore other temporary files
+*.DS_Store
