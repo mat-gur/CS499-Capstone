@@ -1,4 +1,4 @@
-# Enhancement 2: MongoDB Dashboard
+# Enhancement Two: Algorithms and Data Structure
 
 This folder contains my Enhancement Two artifact for the CS-499 Computer Science Capstone. This enhancement falls under the category of Data Structures and Algorithms.
 
@@ -8,12 +8,13 @@ The project is an enhanced version of my MongoDB Dashboard, a Python-based web a
 ## 📁 Folder Structure
 
 - `src/` — All Python source code, including original and enhanced versions
-- `docs/` — Word documents including run instructions and enhancement narrative
+- `docs/` — Word documents including run instructions, user guide, and enhancement narrative
 
 ## 📄 Documentation
 
 - [Run Instructions (Word)](./docs/MongoDB%20Dashboard_Run_Instructions%20Rev1.1.docx)  
 - [User Guide (Word)](./docs/MongoDB%20Dashboard_User_Guide%20Rev1.1.docx)
+- [Narrative (Word)](./docs/4-2%20Milestone%20Three_Enhancement%20Two_Algorithms&DataStructure_Guarino,Matthew.docx)
 
 ## 🎥 Demonstration Video
 
@@ -33,16 +34,16 @@ I chose this artifact because it shows my ability to work with real-world data w
 
 ### What enhancements were made?
 
-I’ve made the following enhancements:
-- I.	Made client-side sorting and searching using custom Python logic
-- II.	Created an in-memory breed index using a Python dictionary to streamline filtering logic and reduce redundancy in repeated queries.
-- III.	Refactored the sorting and filtering logic into modular functions to promote code reuse and separation. 
-- IV.	I made a binary search tree (BST) to organize dog entries by intake age, enabling efficient age range filtering and supporting future scalability for larger databases. 
+I have made the following enhancements:
+1.	Made client-side sorting and searching using custom Python logic
+2.	Created an in-memory breed index using a Python dictionary to streamline filtering logic and reduce redundancy in repeated queries.
+3.	Refactored the sorting and filtering logic into modular functions to promote code reuse and separation. 
+4.	I made a binary search tree (BST) to organize dog entries by intake age, enabling efficient age range filtering and supporting future scalability for larger databases. 
 
 
 ### What skills and course outcomes were demonstrated?
 
-Yes, I met the course outcomes that I originally made in the beginning. For outcome three, I applied algorithmic thinking and principles to redesign the dashboard’s data handling logic. With the BST and a breed index dictionary in place, both are strong examples of how I approached problems with data structure tradeoffs in mind. In outcome four, I leveraged Python and Dash effectively, using these tools in a professional and scalable way. I also modularized the application logic, which not only improves maintainability but also shows my ability to apply innovative computing techniques. 
+Yes, I met the course outcomes that I originally set in the beginning. For outcome three, I applied algorithmic thinking and principles to redesign the dashboard’s data handling logic. With the BST and a breed index dictionary in place, both are strong examples of how I approached problems with data structure tradeoffs in mind. In outcome four, I leveraged Python and Dash effectively, using these tools in a professional and scalable way. I also modularized the application logic, which not only improves maintainability but also shows my ability to apply innovative computing techniques. 
 
 ### Reflection on the process
 
