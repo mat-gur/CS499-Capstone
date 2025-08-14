@@ -10,6 +10,22 @@ Throughout my studies and career, I’ve been driven by a passion for solving re
 
 Feel free to explore the project, review the enhancements, and reach out with any feedback or collaboration ideas.
 
+### 📝 Professional Self-Assessment
+
+As I complete my bachelor’s degree in computer science with a concentration in Information Security and present this ePortfolio, I recognize that it represents far more than a collection of technical artifacts, it is a reflection of my growth, my professional identity, and the career direction I am committed to pursuing. Throughout my time at Southern New Hampshire University, I have sharpened my skills, strengthened my confidence, and learned to approach new challenges with an open and adaptive mindset. This work shows my ability to solve problems, build secure and efficient systems, and think critically under pressure, qualities that employers seek in today’s evolving technology landscape.
+
+My career as a Test Technician for a defense contractors has given me valuable real-world experience in collaborating with engineers, troubleshooting complex systems, and maintaining high-stakes operational readiness.  While working closely with electrical and software engineers, I have learned that effective collaboration goes beyond simply reporting a problem; it requires precise technical communication, detailed documentation, and a shared understanding of project goals. Whether reporting test results, describing software anomalies, or escalating urgent issues, I developed the ability to translate technical details for multiple audiences, a skill I now recognize as critical for working across disciplines.
+
+My decision to focus on Information Security was shaped by my experience serving in an acting role as Facility Security Officer (FSO) and Information Systems Security Manager (ISSM). In this position, I learned that cybersecurity is not only about preventing attacks but also about managing risk, safeguarding sensitive information, and ensuring compliance with strict regulations. This perspective deepened during courses like CYB 200: Cybersecurity Foundations, where I applied concepts such as least-privilege access, multi-factor authentication, and fail-secure system design to realistic security scenarios. These academic projects closely mirrored the real-world processes I use when handling controlled materials and managing security protocols.
+
+Across my program, I have built and refined skills in data structures and algorithms, software engineering, database management, and security. In IT 253, I assessed a company’s outdated security posture and produced formal recommendations to strengthen its technical, administrative, and physical controls. In CS 305, I implemented SHA-256 hashing in a secure Java application, scanned dependencies for vulnerabilities, and documented remediation steps. These experiences reinforced my ability to integrate security into all stages of the software development lifecycle.
+The artifacts in this portfolio represent the culmination of these experiences. The PC Audit Tool (Enhancement 1) showcases my software engineering and UI design abilities through modular programming, threaded operations for responsive performance, and integrated logging for audit trails. It also features directly applicable to real-world cybersecurity workflows. The MongoDB Dashboard (Enhancements 2 and 3) demonstrates my skills in both data structures and databases. By implementing a Binary Search Tree (BST) for efficient filtering, adding input validation and authentication, and applying MongoDB indexing, I created a secure and performant data analysis platform.
+
+Together, these artifacts present a complete picture of my capabilities: building secure, user-friendly applications; optimizing performance through intelligent data structures; and designing robust database solutions. More importantly, they illustrate my approach: blending academic learning with professional experience to create solutions that are functional, maintainable, and secure.
+
+As I move forward, I am confident that the skills and insights shown in this portfolio will contribute effectively to software development, cybersecurity, or systems engineering roles. This ePortfolio is not only the conclusion of my academic journey, but also a launchpad for the next stage of my career, where I will continue applying my expertise, collaborating with diverse teams, and delivering solutions that meet both technical and security demands.
+
+
 ---
 
 ### 📌 Project Overview
@@ -40,7 +56,7 @@ This repository showcases two primary artifacts, each enhanced to reflect advanc
 
 ### 🎥 Code Review
 
-The code review is available in the `/code-review/` folder. It provides an overview of both artifacts and highlights the enhancements and changes that I plan to make.
+The code review is available in the link below. It provides an overview of both artifacts and highlights the enhancements and changes that I plan to make.
 
 [→ View Code Review Video](https://youtu.be/zit2cjyqVfM)
 
