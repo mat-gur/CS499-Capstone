@@ -38,3 +38,18 @@ Yes, the enhancements I made this week align strongly with outcome five, which e
 ### Reflection on the process
 This week’s focus showed me how critical it is to consider not just the frontend experience, but also how data flows behind the scenes. One challenge I faced was managing callback errors when dynamic components weren’t yet available during login, which required setting suppress_callback_exceptions=True and carefully organizing layout initialization. Another challenge was integrating login functionality into an already complex callback system. While it took some trial and error to manage the layout switching logic, this process helped me better understand Dash’s callback lifecycle and state management.
 In the end, this enhancement taught me how to build secure, modular database access in a full-stack context. It also reinforced the value of user authentication and efficient query design in real-world applications.
+
+## 📚 References
+1. Valdarrama, S. (2023, November 27). Sorting algorithms in Python. https://realpython.com/sorting-algorithms-python/
+
+2. Miller, B. N., & Ranum, D. L. (n.d.). Problem solving with algorithms and data structures using python — problem solving with algorithms and data structures 3rd Edition. https://runestone.academy/ns/books/published/pythonds3/index.html
+
+3. Team, M. D. (n.d.). Indexes. Database Manual - MongoDB Docs. https://www.mongodb.com/docs/manual/indexes/#get-started
+
+4. Input Validation - OWASP Cheat Sheet Series. (n.d.). https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html
+
+5. csv — CSV File Reading and Writing. (n.d.). Python Documentation. https://docs.python.org/3/library/csv.html
+
+6. json — JSON encoder and decoder. (n.d.). Python Documentation. https://docs.python.org/3/library/json.html
+
+7. Team, M. D. (n.d.-b). Security. Database Manual - MongoDB Docs. https://www.mongodb.com/docs/manual/security/
