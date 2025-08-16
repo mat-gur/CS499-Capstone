@@ -49,3 +49,14 @@ Yes, I met the course outcomes that I originally set in the beginning. For outco
 
 Working on this artifact helped me see just how much of an impact efficient data structures can make on user experience, especially when dealing with interactive applications. One challenge that I faced was making sure that the client-side enhancements did not interfere with the original MongoDB filtering or break the user interface. Another challenge was figuring out how to integrate the BST structure meaningfully within a web-based dashboard while keeping the logic clear and traceable. 
 In the end, these challenges helped me become a better problem solver. I learned how to break the logic into smaller, testable components and gained a deeper understanding of the way memory and performance optimization matter, even in user-facing applications. 
+
+## 📚 References
+1. Built-in types. (n.d.). Python Documentation. https://docs.python.org/3/library/stdtypes.html#dict
+
+2. 9. classes. (n.d.). Python Documentation. https://docs.python.org/3/tutorial/classes.html
+
+3. Valdarrama, S. (2023, November 27). Sorting algorithms in Python. https://realpython.com/sorting-algorithms-python/
+
+4. Miller, B. N., & Ranum, D. L. (n.d.). Problem solving with algorithms and data structures using python — problem solving with algorithms and data structures 3rd Edition. https://runestone.academy/ns/books/published/pythonds3/index.html
+
+5. Dash Core Components | Dash for Python Documentation | Plotly. (n.d.). https://dash.plotly.com/dash-core-components
