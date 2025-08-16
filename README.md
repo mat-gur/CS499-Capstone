@@ -34,12 +34,19 @@ This repository showcases two primary artifacts, each enhanced to reflect advanc
 
 - 🛠 **PC Audit Tool**  
   A Python-based desktop application that scans system configurations, USB usage, and antivirus status. Enhanced for modularity, GUI responsiveness, logging, and real-time system feedback.
+  <p align="center">
+    <img src="./Enhancement1_SoftwareEng_PC_Audit_Tool/docs/images/PC%20Audit%20Tool%20GUI.png" alt="PC Audit Tool GUI" width="600" />
+  </p>
 
 - 📊 **MongoDB Dashboard**  
   An interactive data dashboard built with Python, Dash, and MongoDB, used to filter and analyze animal shelter data. Enhanced using custom data structures like a Binary Search Tree (BST) and in-memory indexing for fast query performance.
 
 - 🗄 **MongoDB Dashboard – Databases**  
   The same MongoDB dashboard project was further enhanced with database-focused improvements, including input validation and sanitization, CSV/JSON export, modularized database functions, basic authentication, and MongoDB indexing for better efficiency.
+  
+<p align="center">
+  <img src="./Enhancement3_Databases_MongoDB_Dashboard/docs/images/MongoDB%20Dashboard.png" alt="MongoDB Dashboard" width="950" />
+</p>
 
 ---
 
