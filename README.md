@@ -4,7 +4,7 @@
 
 ### 👋 About Me
 
-Hello and welcome to my repository. My name is Matthew Guarino, and I am a Computer Science major at Southern New Hampshire University with a concentration in Information Security. My background includes hands-on experience in RF testing, cybersecurity operations, and systems auditing. All of which have shaped the practical focus of my capstone project.
+Hello and welcome to my repository. My name is Matthew Guarino, and I am a Computer Science major at Southern New Hampshire University with a concentration in Information Security. My career began in RF testing, where I gained hands-on experience working with engineers to troubleshoot and validate complex systems. During that time, I was also introduced to aspects of cybersecurity operations, which sparked my interest in pursuing computer science more seriously. That exposure ultimately led me to specialize in Information Security, combining my technical background with a focus on protecting and securing modern systems.
 
 Throughout my studies and career, I’ve been driven by a passion for solving real-world problems with thoughtful software solutions. This capstone is the culmination of that journey. Bringing together tools I’ve learned, challenges I’ve overcome, and systems I’ve helped secure.
 
@@ -40,17 +40,6 @@ This repository showcases two primary artifacts, each enhanced to reflect advanc
 
 - 🗄 **MongoDB Dashboard – Databases**  
   The same MongoDB dashboard project was further enhanced with database-focused improvements, including input validation and sanitization, CSV/JSON export, modularized database functions, basic authentication, and MongoDB indexing for better efficiency.
-
-
----
-### 📅 Capstone Milestone Timeline
-
-| Module | Deliverable                                   | Status       |
-|--------|-----------------------------------------------|--------------|
-| 4      | 🔍 Code Review                                | ✅ Submitted  |
-| 5      | 🧱 Publish Enhancement 1: Software Engineering & Design | ✅ Submitted 8/2 |
-| 6      | 🧠 Publish Enhancement 2: Data Structures & Algorithms | ✅ Submitted 8/8    |
-| 7      | 🧾 Final Project Submission (Databases & Self-Assessment) | ⏳ In Progress    |
 
 ---
 
