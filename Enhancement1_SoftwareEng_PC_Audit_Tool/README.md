@@ -67,6 +67,9 @@ This project has taught me a lot about writing software that not only works, but
 - LinkedIn Learning Video (NOTE: Might have to have a LinkedIn Learning Account/ Premium Account to access video)
   
 2. TKDocs tutorial. (n.d.). https://tkdocs.com/tutorial/index.html
+
 3. Matthes, E. (n.d.). Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming. No Starch Press.
+
 4. Currie, I. (2025, January 18). The subprocess Module: Wrapping Programs With Python. https://realpython.com/python-subprocess/
+
 5. GeeksforGeeks. (2024, August 2). Logging in Python. GeeksforGeeks. https://www.geeksforgeeks.org/python/logging-in-python/
