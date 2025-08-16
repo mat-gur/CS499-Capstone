@@ -62,3 +62,11 @@ While enhancing and modifying my artifact, I quickly began to come up with more 
 There were a couple of challenges that I faced while working on this project. 1.) the readback of the USB devices and 2.) System tools like Control Panel, System Info, Computer Management, and event logs would lock up the application if two were open at the same time. The USB readback issue was that I was reading every port on my PC and motherboard, but it wasn’t showing what it was. This has since been fixed, and now you can see if a USB storage device is plugged in. I had to research more reliable methods for parsing USB history and refine the logic to make sure that it’s consistent. 
 This project has taught me a lot about writing software that not only works, but works well under different conditions and use cases.
 
+## 📚 References
+1. Stone, B. (n.d.). Python GUI development with Tkinter [Video]. LinkedIn. Retrieved July 11, 2025, from https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/create-a-gui-for-your-python-desktop-application?contextUrn=urn%3Ali%3AlearningCollection%3A7062027215290392576&u=86261762
+- LinkedIn Learning Video (NOTE: Might have to have a LinkedIn Learning Account/ Premium Account to access video)
+  
+2. TKDocs tutorial. (n.d.). https://tkdocs.com/tutorial/index.html
+3. Matthes, E. (n.d.). Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming. No Starch Press.
+4. Currie, I. (2025, January 18). The subprocess Module: Wrapping Programs With Python. https://realpython.com/python-subprocess/
+5. GeeksforGeeks. (2024, August 2). Logging in Python. GeeksforGeeks. https://www.geeksforgeeks.org/python/logging-in-python/
